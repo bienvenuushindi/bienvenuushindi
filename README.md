@@ -38,15 +38,12 @@ I’m always looking for new challenges and opportunities to collaborate! Get in
 </p>
 
 <details>
-
-<br>
-    <summary><strong>Projects</strong></summary>
- <p align="center">
-    <a href="https://github.com/">
-        <img alt="Rock-Paper-Scissors" src="https://github-readme-stats.vercel.app/api/pin/?username=bienvenuushindi&repo=Rock-Paper-Scissors&theme=graywhite" />
-    </a>
-    <a href="">
-        <img alt="Etch-a-Sketch" src="https://github-readme-stats.vercel.app/api/pin/?username=bienvenuushindi&repo=Etch-a-Sketch&theme=graywhite" />
-    </a>
-</p>
+    <summary><strong>More Projects</strong></summary>
+ 
+  - [Calculator](https://codepen.io/usbbush/pen/rNGvLvx)  Built with React.
+  - [25 + 5 Clock](https://codepen.io/usbbush/details/OJxwmwN)  Built with React.
+  
  </details>
+<!-- <a href="">
+        <img alt="Etch-a-Sketch" src="https://github-readme-stats.vercel.app/api/pin/?username=bienvenuushindi&repo=Etch-a-Sketch&theme=graywhite" />
+    </a> --->
