@@ -1,4 +1,7 @@
-<h1>Hi, I am Ushindi 👋</h1>
+<h1>Welcome 👋</h1>
+
+![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/26736582/178106774-df89d946-f591-4b54-b67e-4ce5bcc2c1ba.gif)
+
 
 I am a passionate fullstack web developer based in Africa
 
@@ -11,8 +14,7 @@ I am a passionate fullstack web developer based in Africa
     - [x] MongoDB
 
 - ⚡ I like to watch documentary during my spare time
-- Checkout my [Twitter](https://twitter.com/UsbBush)   
-
+- Checkout my [Twitter](https://twitter.com/UsbBush) 
 
 <!---:man_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to becoming a Full-Stack Web Developer.
 
