@@ -4,15 +4,15 @@
     Hi, I am Ushindi Bienvenu, a passionate fullstack web developer <br> based in Africa
 
 - Currently stack:
-    - [x] HTML & CSS (+ Bootstrap);
+    - [x] HTML & CSS (+ Bootstrap)
     - [x] JavaScript;
     - [x] NodeJs
     - [x] React & Redux
     - [x] Ruby & Ruby on Rails
     - [x] MongoDB
 
-- ⚡ I like to watch documentary during my spare time
-- Checkout my [Twitter](https://twitter.com/UsbBush) 
+<!--- ⚡ I like to watch documentary in my spare time-->
+    
 </p>
 
 ## Github Stats
@@ -24,12 +24,21 @@
         <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenuushindi&theme=graywhite&layout=compact)" />
     </a>
 </p>
+I’m always looking for new challenges and opportunities to collaborate! Get in touch with me:<br><br>
+<p align="left">
+   <a href="https://www.linkedin.com/in/ushindi-bienvenu-894b2b141/">
+        <img alt="Follow me" src="https://img.shields.io/badge/-LinkedIn-%23a960ff?style=for-the-badge&logo=linkedin">
+    </a> 
+    <a href="https://twitter.com/usbbush">
+        <img alt="Follow me" src="https://img.shields.io/twitter/follow/usbbush?color=%23a960ff&label=%20%20%20Follow%20me&logo=twitter&style=for-the-badge">
+    </a>
+    <a href="mailto:jeanbienvenusb@gmail.com">
+        <img alt="Contact me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+</p>
+
 
 <!---:man_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to becoming a Full-Stack Web Developer.
-
-
-> *My "Most Used Languages" does not indicate my skill level, it's just a GitHub metric of which languages have the most code on my GitHub repositories.*
-<br>
 
 <details>
 
@@ -56,19 +65,5 @@ These are my current favorite projects, please take a look at them:
 I’m always looking for new challenges and opportunities to collaborate! Get in touch with me:
 </details> 
 --->
-
-<!---<p align="center">
-   <a href="https://www.linkedin.com/in/saqibjavaid/">
-        <img alt="Follow me" src="https://img.shields.io/badge/-LinkedIn-%23a960ff?style=for-the-badge&logo=linkedin">
-    </a> 
-    <a href="https://twitter.com/saqibpaf">
-        <img alt="Follow me" src="https://img.shields.io/twitter/follow/saqibpaf?color=%23a960ff&label=%20%20%20Follow%20me&logo=twitter&style=for-the-badge">
-    </a>
-    <a href="mailto:saqibjavaid082@gmail.com">
-        <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23a960ff?style=for-the-badge&logo=Mail.Ru">
-    </a>
-</p>
-<br> --->
-<!-- bg-color: a960ff -->
 
 
