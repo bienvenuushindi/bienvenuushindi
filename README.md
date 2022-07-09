@@ -1,15 +1,17 @@
-### Hi there 👋
+<h1>Hi, I am Ushindi 👋</h1>
 
-Here are some ideas to get you started:
+I am a passionate fullstack web developer based in Africa
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Currently stack:
+    - [x] HTML & CSS (+ Bootstrap);
+    - [x] JavaScript;
+    - [x] NodeJs
+    - [x] React & Redux
+    - [x] Ruby & Ruby on Rails
+    - [x] MongoDB
+
+- ⚡ I like to watch documentary during my spare time
+- Checkout my [Twitter](https://twitter.com/UsbBush)   
 
 
 <!---:man_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to becoming a Full-Stack Web Developer.
