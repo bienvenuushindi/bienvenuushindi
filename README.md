@@ -1,9 +1,7 @@
 <h1>Welcome 👋</h1>
-
-![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/26736582/178106774-df89d946-f591-4b54-b67e-4ce5bcc2c1ba.gif)
-
-
-I am a passionate fullstack web developer based in Africa
+<img align="right" src="https://user-images.githubusercontent.com/26736582/178106774-df89d946-f591-4b54-b67e-4ce5bcc2c1ba.gif">
+<p align="left">
+    Hi, I am Ushindi Bienvenu, a passionate fullstack web developer <br> based in Africa
 
 - Currently stack:
     - [x] HTML & CSS (+ Bootstrap);
@@ -15,24 +13,20 @@ I am a passionate fullstack web developer based in Africa
 
 - ⚡ I like to watch documentary during my spare time
 - Checkout my [Twitter](https://twitter.com/UsbBush) 
+</p>
+
+## Github Stats
+<p align="left">
+    <a href="https://github-readme-stats.vercel.app/api?username=bienvenuushindi&theme=radical&show_icons=true" align="left">
+        <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=bienvenuushindi&theme=graywhite&show_icons=true&icon_color=a960ff" />
+    </a>
+    <a href="https://github.com/bienvenuushindi/github-readme-stats" align="right">
+        <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenuushindi&theme=graywhite&layout=compact)" />
+    </a>
+</p>
 
 <!---:man_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to becoming a Full-Stack Web Developer.
 
-- Currently stack:
-
-    - [x] HTML & CSS (+ Bootstrap);
-    - [x] JavaScript;
-        
-<br>
-
-<p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=VanessaAoki&theme=radical&show_icons=true">
-        <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=saqibjavaiddev&theme=graywhite&show_icons=true&icon_color=a960ff" />
-    </a>
-    <a href="https://github.com/saqibjavaiddev/github-readme-stats">
-        <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibjavaiddev&theme=graywhite&layout=compact)" />
-    </a>
-</p>
 
 > *My "Most Used Languages" does not indicate my skill level, it's just a GitHub metric of which languages have the most code on my GitHub repositories.*
 <br>
