@@ -3,7 +3,7 @@
 <p align="left">
     Hi, I am Ushindi Bienvenu, a passionate fullstack web developer <br> based in Africa
 
-- Currently stack:
+- Currently stack:<br>
     - [x] HTML & CSS (+ Bootstrap)
     - [x] JavaScript;
     - [x] NodeJs
@@ -11,7 +11,7 @@
     - [x] Ruby & Ruby on Rails
     - [x] MongoDB
 
-<!--- ⚡ I like to watch documentary in my spare time-->
+- ⚡ I like to watch documentary in my spare time 
     
 </p>
 
@@ -37,33 +37,16 @@ I’m always looking for new challenges and opportunities to collaborate! Get in
     </a>
 </p>
 
-
-<!---:man_technologist: I’m a student at [Microverse](https://www.microverse.org/) looking forward to becoming a Full-Stack Web Developer.
-
 <details>
 
 <br>
-    <summary><strong>More Pinned Projects</strong></summary>
-
-These are my current favorite projects, please take a look at them:
-
+    <summary><strong>Projects</strong></summary>
  <p align="center">
     <a href="https://github.com/">
-        <img alt="Ruby Capstone" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=&theme=graywhite" />
+        <img alt="Rock-Paper-Scissors" src="https://github-readme-stats.vercel.app/api/pin/?username=bienvenuushindi&repo=Rock-Paper-Scissors&theme=graywhite" />
     </a>
     <a href="">
-        <img alt="TicTacToe" src="https://github-readme-stats.vercel.app/api/pin/?username=VanessaAoki&repo=&theme=graywhite" />
+        <img alt="Etch-a-Sketch" src="https://github-readme-stats.vercel.app/api/pin/?username=bienvenuushindi&repo=Etch-a-Sketch&theme=graywhite" />
     </a>
 </p>
  </details>
-
-<hr>
-
-<details>
-<br>
-    <summary><strong>Contact me</strong></summary>
-I’m always looking for new challenges and opportunities to collaborate! Get in touch with me:
-</details> 
---->
-
-
