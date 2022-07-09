@@ -3,7 +3,7 @@
 <p align="left">
     Hi, I am Ushindi Bienvenu, a passionate fullstack web developer based in Africa
 
-- Currently stack:<br>
+- Current stack:<br>
     - [x] HTML & CSS (+ Bootstrap)
     - [x] JavaScript;
     - [x] NodeJs
