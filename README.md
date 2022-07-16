@@ -4,8 +4,8 @@
     Hi, I am Ushindi Bienvenu, a passionate Full-stack web developer living on Earth :smile:
 
 - Current stack:<br>
-    - [x] HTML & CSS (+ Bootstrap)
-    - [x] JavaScript;
+    - [x] HTML & CSS 
+    - [x] JavaScript
     - [x] NodeJs
     - [x] React & Redux
     - [x] Ruby & Ruby on Rails
