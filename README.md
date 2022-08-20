@@ -26,7 +26,7 @@
 </p>
 I’m always looking for new challenges and opportunities to collaborate! Get in touch with me:<br><br>
 <p align="left">
-   <a href="https://www.linkedin.com/in/ushindi-bienvenu-894b2b141/">
+   <a href="https://www.linkedin.com/in/usbbush/">
         <img alt="Follow me" src="https://img.shields.io/badge/-LinkedIn-%23a960ff?style=for-the-badge&logo=linkedin">
     </a> 
     <a href="https://twitter.com/usbbush">
