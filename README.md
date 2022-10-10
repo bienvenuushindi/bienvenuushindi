@@ -1,5 +1,5 @@
 <h1>Welcome 👋</h1>
-<img align="right" src="https://user-images.githubusercontent.com/26736582/178106774-df89d946-f591-4b54-b67e-4ce5bcc2c1ba.gif">
+<!--<img align="right" src="https://user-images.githubusercontent.com/26736582/178106774-df89d946-f591-4b54-b67e-4ce5bcc2c1ba.gif">-->
 <p align="left">
     Hi, I am Ushindi Bienvenu, a passionate Full-stack web developer
 
