@@ -6,13 +6,11 @@
 - Current stack:<br>
     - [x] HTML & CSS 
     - [x] JavaScript
-    - [x] NodeJs
     - [x] React & Redux
     - [x] Ruby & Ruby on Rails
     - [x] PHP & Laravel
     - [x] Postgrsql
     - [x] Mysql
-    - [x] MongoDB
 
 - ⚡ I like to watch documentary in my spare time 
     
