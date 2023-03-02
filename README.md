@@ -4,11 +4,11 @@
     Hi, I am Ushindi Bienvenu, a passionate Full-stack web developer
 
 - Current stack:<br>
-    - [x] HTML & CSS 
-    - [x] JavaScript
-    - [x] React & Redux
-    - [x] Ruby & Ruby on Rails
-    - [x] PHP & Laravel
+    - [x] HTML && CSS 
+    - [x] Typescript &&JavaScript
+    - [x] React && Redux
+    - [x] Ruby && Ruby on Rails
+    - [x] PHP && Laravel
     - [x] Postgrsql
     - [x] Mysql
 
@@ -19,10 +19,10 @@
 ## Github Stats
 <p align="left">
     <a href="https://github-readme-stats.vercel.app/api?username=bienvenuushindi&theme=radical&show_icons=true" align="left">
-        <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=bienvenuushindi&theme=graywhite&show_icons=true&icon_color=a960ff" />
+        <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=bienvenuushindi&theme=dracula&show_icons=true/>
     </a>
     <a href="https://github.com/bienvenuushindi/github-readme-stats" align="right">
-        <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenuushindi&theme=graywhite&layout=compact)" />
+        <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenuushindi&theme=dracula&layout=compact)" />
     </a>
 </p>
 I’m always looking for new challenges and opportunities to collaborate! Get in touch with me:<br><br>
