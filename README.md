@@ -19,7 +19,7 @@
 ## Github Stats
 <p align="left">
     <a href="https://github-readme-stats.vercel.app/api?username=bienvenuushindi&theme=radical&show_icons=true" align="left">
-        <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=bienvenuushindi&theme=dracula&show_icons=true/>
+        <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=bienvenuushindi&show_icons=true&theme=dracula" />
     </a>
     <a href="https://github.com/bienvenuushindi/github-readme-stats" align="right">
         <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenuushindi&theme=dracula&layout=compact)" />
