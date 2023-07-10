@@ -1,3 +1,5 @@
+![1671745039186](https://github.com/bienvenuushindi/bienvenuushindi/assets/26736582/4a19a1b3-a2e7-4bd2-bf63-7f0f6db762c6)
+
 <h1>Welcome 👋</h1>
 <!--<img align="right" src="https://user-images.githubusercontent.com/26736582/178106774-df89d946-f591-4b54-b67e-4ce5bcc2c1ba.gif">-->
 <p align="left" style="color: green">
