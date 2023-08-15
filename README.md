@@ -3,15 +3,22 @@
 <h1>Welcome 👋</h1>
 <!--<img align="right" src="https://user-images.githubusercontent.com/26736582/178106774-df89d946-f591-4b54-b67e-4ce5bcc2c1ba.gif">-->
 <p align="left" style="color: green">
-    Hi, I am Ushindi Bienvenu, a passionate Full-stack web developer
+   I am Ushindi, a unique full-stack web developer who merges technical expertise with empathy-driven solutions. Through unconventional experiences, I've honed my skills in crafting innovative digital solutions.
+
+From revamping my university's website to co-founding a cross-cultural marketplace for Congo and Uganda, I've demonstrated my ability to blend creativity with coding. My freelance ventures have enriched my grasp of digital strategy, while my participation in Microverse has transformed me into a versatile global collaborator, collaborating with talents worldwide.
+
+This transformative journey has shaped me into a developer who thrives on teamwork, embraces evolving challenges, and generates solutions that fuse technology with human intricacies.
+
+In a tech-dominated world, I am the developer who adds a human touch to innovation.
+
+Are you keen to blend technology with empathy for your next venture? Let's discuss it further on a Zoom call and explore how we can make web development resonate with real people
 
 - Current stack:<br>
     - [x] HTML && CSS 
-    - [x] Typescript &&JavaScript
+    - [x] Typescript && JavaScript
     - [x] React && Redux
     - [x] Ruby && Ruby on Rails
-    - [x] PHP && Laravel
-    - [x] Postgrsql
+    - [x] PostgreSQL
     - [x] Mysql
 
 - ⚡ I like to watch documentary in my spare time 
