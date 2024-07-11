@@ -44,13 +44,13 @@ I’m always looking for new challenges and opportunities to collaborate! Get in
     </a>
 </p>
 
-<details>
+<!--<details>
     <summary><strong>More Projects</strong></summary>
  
   - [Calculator](https://codepen.io/usbbush/pen/rNGvLvx)  Built with React.
   - [25 + 5 Clock](https://codepen.io/usbbush/details/OJxwmwN)  Built with React.
   
- </details>
+ </details>--->
 <!-- <a href="">
         <img alt="Etch-a-Sketch" src="https://github-readme-stats.vercel.app/api/pin/?username=bienvenuushindi&repo=Etch-a-Sketch&theme=graywhite" />
     </a> --->
