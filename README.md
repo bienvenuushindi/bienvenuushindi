@@ -14,11 +14,11 @@ In a tech-dominated world, I am the developer who adds a human touch to innovati
 Are you keen to blend technology with empathy for your next venture? Let's discuss it further on a Zoom call and explore how we can make web development resonate with real people
 
 - Current stack:<br>
-    - [x] HTML && CSS 
-    - [x] Typescript && JavaScript
-    - [x] React && Redux
     - [x] Ruby && Ruby on Rails
     - [x] PostgreSQL
+    - [x] Typescript && JavaScript
+    - [x] HTML && CSS 
+    - [x] React && Redux
     - [x] Mysql
 
 - ⚡ I like to watch documentary in my spare time 
