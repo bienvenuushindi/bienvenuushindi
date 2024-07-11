@@ -30,9 +30,6 @@ Are you keen to blend technology with empathy for your next venture? Let's discu
     <a href="https://github-readme-stats.vercel.app/api?username=bienvenuushindi&theme=radical&show_icons=true" align="left">
         <img height="200" alt="Readme stats" src="https://github-readme-stats.vercel.app/api?username=bienvenuushindi&show_icons=true&theme=dracula" />
     </a>
-    <a href="https://github.com/bienvenuushindi/github-readme-stats" align="right">
-        <img height="200" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bienvenuushindi&theme=dracula&layout=compact)" />
-    </a>
 </p>
 I’m always looking for new challenges and opportunities to collaborate! Get in touch with me:<br><br>
 <p align="left">
